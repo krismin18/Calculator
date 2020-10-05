@@ -5,4 +5,4 @@ cd test
 #creation of the file text
 touch file{1..5}.txt
 #deletion of the file
-rm -rf *
+
